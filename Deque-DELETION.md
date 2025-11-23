@@ -1,4 +1,4 @@
-# Exp.No:38  
+# Exp.No:14d 
 ## Deque - Removing Elements from the Right End of a Deque Using Python
 ### AIM  
 To demonstrate the double-ended queue (deque) functionality by removing elements from the right end using the pop() method.
